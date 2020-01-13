@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gotham Pro Medium';
+    src: local('Gotham Pro Medium'), url(./fonts/GothamProMedium.ttf) format('truetype');
+}
+
+body {
+    font-family: 'Gotham Pro Medium', serif;
+}
