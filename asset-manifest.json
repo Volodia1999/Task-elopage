@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Task-elopage/static/css/main.2b6d1240.chunk.css",
-    "main.js": "/Task-elopage/static/js/main.1c3498ae.chunk.js",
-    "main.js.map": "/Task-elopage/static/js/main.1c3498ae.chunk.js.map",
+    "main.css": "/Task-elopage/static/css/main.21dd43d6.chunk.css",
+    "main.js": "/Task-elopage/static/js/main.a797665b.chunk.js",
+    "main.js.map": "/Task-elopage/static/js/main.a797665b.chunk.js.map",
     "runtime-main.js": "/Task-elopage/static/js/runtime-main.fbfe287d.js",
     "runtime-main.js.map": "/Task-elopage/static/js/runtime-main.fbfe287d.js.map",
     "static/css/2.c6fd14cb.chunk.css": "/Task-elopage/static/css/2.c6fd14cb.chunk.css",
-    "static/js/2.d2c5b0a0.chunk.js": "/Task-elopage/static/js/2.d2c5b0a0.chunk.js",
-    "static/js/2.d2c5b0a0.chunk.js.map": "/Task-elopage/static/js/2.d2c5b0a0.chunk.js.map",
+    "static/js/2.4ad73f39.chunk.js": "/Task-elopage/static/js/2.4ad73f39.chunk.js",
+    "static/js/2.4ad73f39.chunk.js.map": "/Task-elopage/static/js/2.4ad73f39.chunk.js.map",
     "index.html": "/Task-elopage/index.html",
-    "precache-manifest.bab05cba3d5664466ba73bf6d1220caa.js": "/Task-elopage/precache-manifest.bab05cba3d5664466ba73bf6d1220caa.js",
+    "precache-manifest.9b0d2af052fc747b417bc8e7676f384c.js": "/Task-elopage/precache-manifest.9b0d2af052fc747b417bc8e7676f384c.js",
     "service-worker.js": "/Task-elopage/service-worker.js",
     "static/css/2.c6fd14cb.chunk.css.map": "/Task-elopage/static/css/2.c6fd14cb.chunk.css.map",
-    "static/css/main.2b6d1240.chunk.css.map": "/Task-elopage/static/css/main.2b6d1240.chunk.css.map",
-    "static/js/2.d2c5b0a0.chunk.js.LICENSE": "/Task-elopage/static/js/2.d2c5b0a0.chunk.js.LICENSE",
+    "static/css/main.21dd43d6.chunk.css.map": "/Task-elopage/static/css/main.21dd43d6.chunk.css.map",
+    "static/js/2.4ad73f39.chunk.js.LICENSE": "/Task-elopage/static/js/2.4ad73f39.chunk.js.LICENSE",
     "static/media/GothamProMedium.ttf": "/Task-elopage/static/media/GothamProMedium.7099ae8b.ttf",
     "static/media/font-awesome.min.css": "/Task-elopage/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.fbfe287d.js",
     "static/css/2.c6fd14cb.chunk.css",
-    "static/js/2.d2c5b0a0.chunk.js",
-    "static/css/main.2b6d1240.chunk.css",
-    "static/js/main.1c3498ae.chunk.js"
+    "static/js/2.4ad73f39.chunk.js",
+    "static/css/main.21dd43d6.chunk.css",
+    "static/js/main.a797665b.chunk.js"
   ]
 }
