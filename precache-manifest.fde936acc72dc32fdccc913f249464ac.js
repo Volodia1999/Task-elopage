@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a5791ba9f32c1a485a2f57192b047be",
+    "revision": "fcfc4e57ee8a7c3894982d7d88ccf88e",
     "url": "/Task-elopage/index.html"
   },
   {
-    "revision": "b93453d45f5f4136a33f",
+    "revision": "05de4c2100464c6bbe0a",
     "url": "/Task-elopage/static/css/2.c6fd14cb.chunk.css"
   },
   {
-    "revision": "3de71223111ab93d86bc",
-    "url": "/Task-elopage/static/css/main.7a9b9621.chunk.css"
+    "revision": "750f3112d768b1d1a92a",
+    "url": "/Task-elopage/static/css/main.2b6d1240.chunk.css"
   },
   {
-    "revision": "b93453d45f5f4136a33f",
-    "url": "/Task-elopage/static/js/2.83920ac5.chunk.js"
+    "revision": "05de4c2100464c6bbe0a",
+    "url": "/Task-elopage/static/js/2.fd61bd54.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/Task-elopage/static/js/2.83920ac5.chunk.js.LICENSE"
+    "url": "/Task-elopage/static/js/2.fd61bd54.chunk.js.LICENSE"
   },
   {
-    "revision": "3de71223111ab93d86bc",
-    "url": "/Task-elopage/static/js/main.40c72a36.chunk.js"
+    "revision": "750f3112d768b1d1a92a",
+    "url": "/Task-elopage/static/js/main.2ccc6fc4.chunk.js"
   },
   {
     "revision": "002be64fe3c2b41eab23",
