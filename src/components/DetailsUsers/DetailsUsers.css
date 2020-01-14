@@ -116,12 +116,13 @@
     padding: 12px 8px;
     border-radius: 6px;
     margin-left: 12px;
+    position: relative;
 }
 
 .tooltip-icon:before {
     content: '';
     position: absolute;
-    left: 204px;
+    left: -17px;
     border: 9px solid transparent;
     border-right-color: #555;
 }
