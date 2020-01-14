@@ -14,7 +14,7 @@
 }
 
 .details-user-card:hover {
-    box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 2px rgba(0, 0, 0, 0.3);
     border-radius: 4px;
     background-color: #ffffff;
     cursor: pointer;
@@ -82,7 +82,12 @@
 }
 
 .add-account button:hover {
-    background-color: #ddd;
+    background-color: #1e84d7;
+    color: #ffffff;
+}
+
+.add-account button:hover .add-icon {
+    color: #ffffff;
 }
 
 .add-icon {
@@ -90,14 +95,16 @@
     padding-right: 5px;
 }
 
-.color-icon {
+.color-info-icon {
     padding-left: 5px;
     color: #4a4a4a;
+    cursor: pointer;
 }
 
 .info-icon {
     padding-left: 5px;
     color: #1e84d7;
+    cursor: pointer;
 }
 
 .tooltip-icon {
@@ -112,7 +119,7 @@
 }
 
 .tooltip-icon:before {
-    content: ' ';
+    content: '';
     position: absolute;
     left: 204px;
     border: 9px solid transparent;
@@ -188,10 +195,6 @@
 }
 
 .add-new-account {
-    margin-top: 3%;
-}
-
-.add-new-account {
     background-color: #83A2FF;
     border: none;
     padding: 12px 14px;
@@ -217,7 +220,6 @@
     font-size: 13px;
     cursor: pointer;
     color: #ffffff;
-    margin-left: 10%;
 }
 
 .cancel-button:hover {
@@ -228,7 +230,9 @@
     outline: none;
 }
 
-.w-100 {
+.forms-button {
     width: 100%;
-    text-align: center;
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
 }

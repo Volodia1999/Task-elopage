@@ -5,8 +5,11 @@ import './DetailsUsers.css';
 
 const DetailsUsers = () => {
     const [getUsers, changeGetUsers] = useState(userAPI);
+    // Change color and show tooltip
     const [infoIcon, changeInfoIcon] = useState(false);
+    // Open modal
     const [isOpen, setIsOpen] = useState(false);
+    // Get data from input
     const [currentUserName, setUserName] = useState('');
     const [currentUserEmail, setUserEmail] = useState('');
     const [currentUserPhone, setUserPhone] = useState('');
@@ -42,7 +45,7 @@ const DetailsUsers = () => {
                 <p>LIST<i onClick={() => changeInfoIcon(!infoIcon)}
                           className={!infoIcon
                               ? 'fa fa-info-circle info-icon fa-lg'
-                              : 'fa fa-info-circle fa-lg color-icon'}/>
+                              : 'fa fa-info-circle fa-lg color-info-icon'}/>
                     {infoIcon && <span className='tooltip-icon'><i>Account list</i></span>}
                 </p>
             </div>
@@ -85,9 +88,13 @@ const DetailsUsers = () => {
                             type='text'
                             placeholder='Your phone...'
                             onChange={setPhone}/>
-                        <div className='w-100'>
-                            <button className='add-new-account'>Add new account</button>
-                            <button onClick={() => setIsOpen(false)} className='cancel-button'>Cancel</button>
+                        <div className='forms-button'>
+                            <div>
+                                <button onClick={() => setIsOpen(false)} className='cancel-button'>Cancel</button>
+                            </div>
+                            <div>
+                                <button className='add-new-account'>Add new account</button>
+                            </div>
                         </div>
                     </form>
                 </div>

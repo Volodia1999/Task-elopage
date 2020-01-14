@@ -23,7 +23,7 @@ const OverviewUsers = (props) => {
                             <p>Phone:</p>
                             <span>{user.phone}</span>
                         </div>
-                        <div className='detail-button'>
+                        <div className='details-user'>
                             <button onClick={routeChange}>Details</button>
                         </div>
                     </div>

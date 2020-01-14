@@ -105,13 +105,12 @@
     text-align: center;
 }
 
-.detail-button {
+.details-user {
     text-align: center;
     margin-top: 20%;
-
 }
 
-.detail-button button {
+.details-user button {
     background-color: transparent;
     border-radius: 20px;
     border: 1px solid #ffffff;
@@ -121,7 +120,7 @@
     cursor: pointer;
 }
 
-.detail-button button:focus {
+.details-user button:focus {
     outline: none;
 }
 
